@@ -12,7 +12,6 @@ This website showcases my professional journey, technical skills, certifications
 
 Visit the portfolio:
 https://hacker-ram8867.github.io/MyCyberPortfolio/
-
 ---
 
 ## 🛠️ Built With
